@@ -2,6 +2,6 @@
 
 Criando um plano de estudos para aprendizado em frontend
 
-´´ console.log("Hello World") ´´
-
+`` console.log("Hello World</h1") `` :computer: :man_technologist:
+ 
 🌟
