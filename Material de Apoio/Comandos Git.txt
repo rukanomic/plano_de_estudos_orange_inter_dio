@@ -1,0 +1,19 @@
+Comandos para o Git:
+
+git init
+git config
+git config --global user.e-mail "E-mail desejado"
+git config --global user.name "Usuário desejado"
+git add nomeArquivo
+git add *
+echo > README.md 
+git commit
+git commit -m "mensagem"
+git status
+mv nomeArquivo ./"caminho que deseja mover"
+git remote add NomeDesejado + link do repositório
+git remote -v
+git push nomeRepositório master
+git pull nomeRepositório master
+git clone 
+ls -a

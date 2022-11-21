@@ -1,0 +1,7 @@
+Criar Chave SSH e adicionar no GIT:
+
+1. ssh-keygen -t ed25519 -C "Email desjado";
+2. Localizar pasta com arquivos: cd /c/Users/Dell/.ssh/
+3. Abrir criptografia da SSH: cat id_ed25519.pub (Abrir chave pública
+4. Gerar agente: eval $(ssh-agent -s)
+5. Entregar/adicionar agente para o GIT: ssh-add id_ed25519 (Passar chave privada)
