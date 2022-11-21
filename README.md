@@ -1,9 +1,7 @@
-# plano_de_estudos_orange_inter
+# Plano de Estudos :book: Bootcamp Orange Inter+ :tangerine:
 
-Criando um plano de estudos para aprendizado em frontend
+ Repositório criado para concluir o desafio de projeto Git/Github e mapear plano de estudos para aprendizado do zero de front-end e back-end
 
-- Teste teste
-
-`` console.log("Hello World</h1") `` :computer: :man_technologist:
+`` console.log("Hello World</h1") `` :man_technologist:
  
 🌟
