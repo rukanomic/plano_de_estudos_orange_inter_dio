@@ -24,7 +24,7 @@ Repositório criado para concluir o desafio de projeto Git/Github e mapear plano
 > 78h de Curso: Estudar 2h/Dia
 
 - [x] Jornada (Onboarding)
-- [ ] Princípios de Desenvolvimento de Software
+- [x] Princípios de Desenvolvimento de Software
 - [ ] Primeiras Páginas Interativas com JavaScript
 - [ ] Dominando Algoritmos Básicos com Desafios de Código JavaScript
 - [ ] Começando na Biblioteca React
