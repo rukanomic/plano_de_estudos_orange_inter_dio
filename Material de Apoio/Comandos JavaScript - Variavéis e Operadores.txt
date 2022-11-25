@@ -1,8 +1,0 @@
-Primeiros Passos com JavaScript - Variavéis e Operadores
-
-Let: Para variáveis que podem ser reatribuídas, o valor pode é modificável
-
-Const: Para constantes váriaveis que não podem ser reatribuídas, o valor constante é fixo
-
-toFixed: Converte o valor para um texto e fraciona a quantidade de casa decimal desejada
-

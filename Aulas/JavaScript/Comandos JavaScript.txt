@@ -1,0 +1,38 @@
+Variavéis e Operadores
+
+Let: Para variáveis que podem ser reatribuídas, o valor pode é modificável
+
+Const: Para constantes váriaveis que não podem ser reatribuídas, o valor constante é fixo
+
+toFixed: Converte o valor para um texto e fraciona a quantidade de casa decimal desejada
+
+Estruturas Condicionais 
+
+É uma expressão que retorna um valor boleano
+
+Boolean - É o tipo de variável condicional que diz se um valor é verdadeiro (1) ou falso (0)
+
+%: Pega o resto da divisão (se tiver)
+
+Uma condicional sempre retorna um boolean
+
+=: Um igual é para atribuir valor
+==: 2 iguais funciona para igualdade, mas ignora o tipo da variável
+===: 3 iguais funciona para igualdade, muito utilizado no JS para fazer as comparações (sempre utilizado para fazer comparações)
+
+!: É a negação, converte o valor de um boleano em seu oposto (Ex: Se tiver 0 vira 1, se tiver 1 vira 0.) 
+
+
+if: se
+else: se não
+else if: se não se
+
+Praticando com Variáveis, Operadores e Estruturas Condicionais
+
+&&: É o valor para dizer "and"
+Math: É uma biblioteca de utilitários de funções matemáticas
+Math.pow: Potência
+
+Alt + Shift + F: Organiza o código
+
+

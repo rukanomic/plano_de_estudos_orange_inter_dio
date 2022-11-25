@@ -1,0 +1,12 @@
+Funções: Um pequeno trecho de código que pode ser declarado e invocada a qualquer momento.
+
+Como declarar, exemplo: function teste () {
+                                 console.log('teste');
+                              }
+
+Observação: Pode ser invocado várias vezes sem ter que repetir a estrutura acima, basta declarar pelo nome: teste();
+
+Abre coment ==> /* Comentário */ <=== Fecha coment 
+ou
+//: Faz um comentário
+
