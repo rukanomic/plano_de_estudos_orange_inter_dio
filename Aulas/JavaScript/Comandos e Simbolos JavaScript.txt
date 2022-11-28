@@ -35,4 +35,9 @@ Math.pow: Potência
 
 Alt + Shift + F: Organiza o código
 
+return: retorna o valor
+class: deinifi um classe
+
+constructor: é o que acontece quando uma pessoa é instânciada
+
 

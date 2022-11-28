@@ -1,16 +1,16 @@
 function escrevaMeuNome(nome) {
-  console.log('Meu nome é:', nome);
+  return 'Meu nome é:', nome;
 }
 
 
 
 function classificarIdade(idade) {
     if (idade >= 18) {
-        console.log('Você é maior de idade');
+        return('Você é maior de idade');
     } else {
-        console.log('Você é menor de idade');
+        return('Você é menor de idade');
     }
 }
 
-escrevaMeuNome('Ruka');
-classificarIdade(25);
+console.log(escrevaMeuNome('Ruka'));
+console.log(classificarIdade(25));

@@ -1,0 +1,32 @@
+*Defnição: Objeto é uma coleção de valores (dados) que agrupa e funciona através de chave e valor. Um objeto no JS é uma coleção dinâmica de chave e valor. É possível adicionar e remover
+
+Objeto Liretal: É um objetvo que é aquilo e pronto, uma unica coisa.
+
+Orientação a Objetos (POO): Criação de definições de objetos, contrato de como tem que ser um objeto e as instâncias seguindo esses contratos e criando novas ocorrência de objetos.
+
+Detalhes:
+- Para atribuir um objeto basta colocar {} na constante
+- É possível utilizar funções dentro de um objeto e é chamada de método
+
+Quando estamos em uma função existe uma palvra:
+this: Diz respeito ao contexto onde a função está sendo executado, contexto (o this assume o objeto)
+
+Sinais e exemplo de utilização dos sinanis usados:
+
+`: Crase - O uso de crase(acento grave) indica que esta sendo declarado uma Template String, mas você pode declarar tanto com aspas, quanto aspas duplas ou o acento grave. Contanto que você use o mesmo item para abrir e fechar.
+
+$: Cifrão - O $ é o alias da biblioteca jQuery e essa função é o semelhante a window. onload , ou seja: corre quando o documento tiver carregado. De qualquer maneira o $ não tem significado especial em JavaScript. É um nome de variável normal, que é comum ser usado pelo jQuery.
+
+[]: Conlchetes - servem para criar/referenciar arrays - pode dizer-se que arrays são uma lista de elementos, ordenados sem chaves especificas
+
+{}:  Chaves - servem para criar/referenciar objetos - objetos são um grupo de elementos onde cada um pode ser referenciado pela sua chave
+
+Exemplos: 
+console.log(`Meu nome é ${this.nome} e minha idade é ${this.idade}`);
+*
+
+Definição de Classe: É a definição de como é, deveria e/ou tem que ser algo, exemplo: Pessoa
+
+Definição Instância: É uma ocorrência de uma algo (classe), exemplo: pessoa negra e alta
+
+

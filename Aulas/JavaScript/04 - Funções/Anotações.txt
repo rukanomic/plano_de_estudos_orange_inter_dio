@@ -1,10 +1,12 @@
-Funções: Um pequeno trecho de código que pode ser declarado e invocada a qualquer momento.
+Funções: São trechos de código que podem ser declarados e invocados durante a execução de um programa.
+
+Uma função sempre deve ser declarado com um  tipo de retorno (return, console.log)
 
 Como declarar, exemplo: function teste () {
                                  console.log('teste');
                               }
 
-Observação: Pode ser invocado várias vezes sem ter que repetir a estrutura acima, basta declarar pelo nome: teste();
+ias vezes sem ter que repetir a estrutura acima, basta declarar pelo nome: teste();
 
 Abre coment ==> /* Comentário */ <=== Fecha coment 
 ou
