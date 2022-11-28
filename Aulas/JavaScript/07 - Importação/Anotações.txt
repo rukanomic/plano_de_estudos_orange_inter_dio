@@ -1,0 +1,12 @@
+É importante aprender separação e isolamento de complexidade
+
+Para importar deve usar a função abaixo:
+
+Require: Importa o que está sendo expotado por outro arquivo.
+Exemplo: const funcoes require ('./funcoes');
+
+Para exportar deve usar a função abaixo:
+
+Export: Exporta 
+Exemplo: module.exports = {gets, print}; 
+
