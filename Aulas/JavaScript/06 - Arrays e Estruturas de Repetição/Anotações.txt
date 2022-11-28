@@ -1,0 +1,29 @@
+Definição Arrays: É uma coleção de dados (lista) definidas dentro dos colchetes, a lista é uma coleção mais direta
+
+[]: Cria uma lista, coleção de dados direta.
+
+push: serve para adicionar um item a lista
+
+pop: remove o último item da lista
+
+shift: remove o primeiro item da lista
+
+length: Mostra o tamanho da lista (quantidade de itens)
+
+*
+
+Estruturas de Repetição: Serve para percorrer os valores de uma lista e dinamicamente somá-los mesmo com novos inputs.
+
+for: funciona para percorrer, principalmente, uma quantidade específica de vezes. 
+
+Estrutura: for (let index = 0; index < array.length; index++) {
+
+OBS: as partes são separadas por ";" da formula acima
+
+A primeira parte declara o index (incio), a segunda parte é a estrutura condicional e a terceira parte é o que vai acontecer depois que terminar de executar o programa (for)
+
+++: Incrementa 1 na própria variável. 
+
+
+
+

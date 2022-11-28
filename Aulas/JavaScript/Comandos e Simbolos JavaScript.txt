@@ -38,6 +38,14 @@ Alt + Shift + F: Organiza o código
 return: retorna o valor
 class: deinifi um classe
 
-constructor: é o que acontece quando uma pessoa é instânciada
+constructor: é o que acontece quando uma pessoa é instânciada. O construtor é um método especial para criar e inicializar um objeto criado a partir de uma classe.
+
+pop: remove o último item da lista
+
+shift: remove o primeiro item da lista
+
+length: Mostra o tamanho da lista (quantidade de itens)
+
+
 
 
