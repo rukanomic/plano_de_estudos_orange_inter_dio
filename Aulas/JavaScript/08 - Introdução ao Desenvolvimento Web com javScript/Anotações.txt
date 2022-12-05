@@ -1,5 +1,0 @@
-Instalar Ferramenta Http do Node:
-npm install -g http-server
-
-Startar um servidor HTTP e retornar IP: 
-http-server ./

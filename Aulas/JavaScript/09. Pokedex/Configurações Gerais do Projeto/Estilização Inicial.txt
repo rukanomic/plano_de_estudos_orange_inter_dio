@@ -1,0 +1,7 @@
+Mobile First: É um método de iniciar a estilização pelo mobile, pois é uma boa prática para evitar que depois tenha mais retrabalhabo para estruturar na web, sendo necessário modificar menos itens.
+
+rem: É baseado no tamanho da fonte m (É uma forma de deixar o espaçamento mais responsivo)
+
+JQuery: É um conjunto de arquivos CSS que vai ser aplicado de acordo com o tamanho da tela.
+
+
