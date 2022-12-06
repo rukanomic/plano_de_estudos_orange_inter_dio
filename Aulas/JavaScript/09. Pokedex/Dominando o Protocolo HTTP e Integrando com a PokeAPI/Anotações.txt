@@ -12,3 +12,23 @@ Query String: É o parâmetro através de busca separado por "?", exemplo: /poke
 offset = 20
 limit = 20
 
+Headers: São espécie de configuração de uma requisão, metadados da requisição, são coisas para descrever ou complementar a requisição.
+
+Request Headers e Response Headers é a configuração da API.
+
+Body: É o corpo de uma requisição, o dado que deseja trafegar.
+
+Status Code: É o estado do código, informa o que aconteceu com a requisição
+
+Response Body: Retornar após uma requisição.
+
+Fetch API: É uma biblioteca que já vem integrada no JavaScript do Browser.
+
+*
+
+fetch: Retorna uma Promise 
+
+Promise: É a promessa de um resultado, bem similar a um processamento a assincrono.
+
+Processamento Assincrono: É um processamento que vai ser executado e que não tenho a resposta de imediato, mas uma vou ter essa resposta.
+

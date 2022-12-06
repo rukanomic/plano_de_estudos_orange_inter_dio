@@ -5,7 +5,7 @@ Startar um servidor HTTP e retornar IP:
 http-server ./
 *
 
-Definição do HTML: É uma linguagem de marcação texto que serve para delimitar e eestruturar conteúdos.
+Definição do HTML: É uma linguagem de marcação texto que serve para delimitar e estruturar conteúdos.
 
 *
 
