@@ -28,7 +28,21 @@ Fetch API: É uma biblioteca que já vem integrada no JavaScript do Browser.
 
 fetch: Retorna uma Promise 
 
-Promise: É a promessa de um resultado, bem similar a um processamento a assincrono.
+Promise: É a promessa de um resultado positivo, bem similar a um processamento a assincrono.
 
 Processamento Assincrono: É um processamento que vai ser executado e que não tenho a resposta de imediato, mas uma vou ter essa resposta.
+
+catch: Para retornar um resultado de fracasso, erro.
+
+finally: Informa a finalização de um processo independente de sucesso ou erro, exemplo: Requisição concluída.
+
+Encadeamento de .then's: Sempre o que vai pro segundo then é o retorno do primeiro e o que vai pro primeiro é o retorno da promise (fetch). Com isso a gente consegue transformar/manipular a resposta
+
+Na função de callback é possível reduzir o código transformando uma function em uma => arrow function 
+
+
+
+
+
+
 
