@@ -6,9 +6,9 @@ Para fazermos uma requisição HTTP é necessário:
 2. Path, exemplo: /api/v2/pokemon/1
 3. Método de Solicitação: GET, POST, PUT, DELETE, PATCH, etc.
 
-Path Params: É o parâmetro através do caminho do path, exemplo: pokemon/1, pokemon/2
+Path Params: Serve para a passagem de parâmetros principalmente de identificação de recursos. É o parâmetro através do caminho do path, exemplo: pokemon/1, pokemon/2
 
-Query String: É o parâmetro através de busca separado por "?", exemplo: /pokemon?offset=20&limit=20
+Query String: É uma forma de passagem de parâmetros para uma requisição. É o parâmetro através de busca separado por "?", exemplo: /pokemon?offset=20&limit=20
 offset = 20
 limit = 20
 

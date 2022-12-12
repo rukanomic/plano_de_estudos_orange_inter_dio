@@ -25,10 +25,10 @@ Repositório criado para concluir o desafio de projeto Git/Github e mapear plano
 
 - [x] Jornada (Onboarding)
 - [x] Princípios de Desenvolvimento de Software
-- [ ] Primeiras Páginas Interativas com JavaScript
-- [ ] Dominando Algoritmos Básicos com Desafios de Código JavaScript
+- [x] Primeiras Páginas Interativas com JavaScript
+- [x] Dominando Algoritmos Básicos com Desafios de Código JavaScript
 - [ ] Começando na Biblioteca React
-- [ ] Dominando Algoritmos Intermediários com Desafios de Código Java Script
+- [x] Dominando Algoritmos Intermediários com Desafios de Código Java Script
 - [ ] Fortalecendo sua Carreira Profissional
 - [ ] Concluir até 12/12/2022
 
