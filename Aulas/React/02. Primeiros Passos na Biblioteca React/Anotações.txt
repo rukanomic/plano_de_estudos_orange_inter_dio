@@ -1,0 +1,8 @@
+O que é o React?
+React JS é uma biblioteca JavaScript para a criação de interfaces de usuário (Front-End). Resumindo, ele é uma facilitador de criação de interface e interação do usuário, assim ganhando tempo desenvolvimento.
+
+Framework x Biblioteca
+
+Biblioteca é o recurso para facilitar algum ponto do nosso código e desenvolvimento.
+
+Framework nada mais é do que uma ferramenta que vai te ajudar a ter como único objetivo focar em desenvolver o projeto, não tem detalhes de configurações. Serve para não precisar fazer toda a configuração do zero, pois tem alguma convenções.
