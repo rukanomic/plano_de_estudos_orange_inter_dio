@@ -1,0 +1,11 @@
+Estado: É a partir de um estado que um componente vai mudar na nossa página.
+
+Ciclo de Vida: O componente tem um ciclo de vida: criação -> viver -> alterar -> encerrar
+
+
+Ciclo de Vida do Componente Real:
+
+constructor -> getDerivedStateFromProps -> componentDidMount -> shouldComponentUpdate -> render -> getSnapshopBeforeUpdate - > componentDidUpdate -> componentWillUnmount 
+
+O ciclo entra em looping para reutilização.
+

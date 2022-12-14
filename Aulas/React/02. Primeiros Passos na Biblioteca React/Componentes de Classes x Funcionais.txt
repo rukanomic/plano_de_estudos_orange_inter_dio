@@ -1,4 +1,4 @@
-Componente de Classes x Funcionais: Um componente é todo compenente dentro do React (página, elementos) porque a idéia do React é componentiza e não ficar repetindo código, assim podendo reutilizar o que for criado como componente.
+Componente de Classes x Funcionais: Um componente é todo compenente dentro do React (página, elementos) porque a idéia do React é componentizar e não ficar repetindo código, assim podendo reutilizar o que for criado como componente.
 
 Com o tempo o React começou a entender componentes dentro de funções, portanto, os componentes de classes não são mais utilizado.
 
