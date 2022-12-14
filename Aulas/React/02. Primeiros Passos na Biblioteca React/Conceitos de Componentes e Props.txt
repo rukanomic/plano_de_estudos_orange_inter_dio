@@ -1,0 +1,12 @@
+Props: É a propriedade que colocamos entre chaves {}, ams também pode ser declarada como uma "const"
+
+obs: Não é possível retonar dois objetos lado a lado no "return" poruqe o jsx só retornar um componente, mas é possível declarar um tag fantasma para retornar dois componentes lado a lado:
+
+Exemplo:
+
+function App() {
+  return (<> -- tag fantasma
+  <div className="App">Olá React</div>
+  <button></button>
+  </> -- tag fantasma
+  );

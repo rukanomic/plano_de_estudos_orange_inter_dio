@@ -1,0 +1,18 @@
+Componente de Classes x Funcionais: Um componente é todo compenente dentro do React (página, elementos) porque a idéia do React é componentiza e não ficar repetindo código, assim podendo reutilizar o que for criado como componente.
+
+Com o tempo o React começou a entender componentes dentro de funções, portanto, os componentes de classes não são mais utilizado.
+
+OBS: Mas é improtatne conhecer o conceito, pois ainda pode haver empresas que trabalhem com o antigo padrão, ou seja, trabalhando com componentes de classes.
+
+Exemplo Componente Funcional:
+function App() {
+  return (
+    <div className="App">
+      Olá React
+    </div>
+  );
+}
+
+export default App;
+
+

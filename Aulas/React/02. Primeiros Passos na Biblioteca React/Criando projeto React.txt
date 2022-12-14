@@ -1,0 +1,8 @@
+
+Comandos para criar projeto react.
+
+npx create-react-app nome_app
+cd nome_app
+npm start
+
+A pasta "public" contém os principais arquivos do projeto.
