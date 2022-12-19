@@ -1,0 +1,9 @@
+O useEffect é o hook nativo do react que interage com o ciclo de vida de um componente, ou seja, serve para manipular os estados desse ciclo.
+
+Resumo: Gerencia quando um componente está renderizando, sofre alterações e quando ele precisa fazer uma ação novamente.
+
+Exemplo:
+
+    useEffect(() => {
+      alert('carreguei')
+    },[]);

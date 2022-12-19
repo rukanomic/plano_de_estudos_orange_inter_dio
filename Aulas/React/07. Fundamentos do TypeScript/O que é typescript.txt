@@ -1,0 +1,12 @@
+Typescript é um superset de JavaScript, ou seja, um conjunto de ferramentas e formas mais eficientes de escrever código JavScript, adicionando recursos que não estão presentes de maneira nativa na linguagem.
+
+Resumo: É um complemento do JavaScript
+
+
+
+Benefícios:
+
+Nos traz diversos benefícios, mas podemos destacar o potencial de detecção de erros durante o desenvolvimento de projetos e a possibilidade de incluir um pouco mais de inteligência a IDE que está sendo usada. Isso reflete em um ambiente muito mais ágil e seguro enquanto o código esá sendo digitado pelo usuário.
+
+* Linguagem fortemente tipada;
+* Diversos conceitos de POO como: classes, heranças, emcapsulamento, interfaces...;

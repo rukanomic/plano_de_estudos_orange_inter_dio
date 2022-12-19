@@ -1,0 +1,6 @@
+É uma biblioteca que possibilita escrever códigos CSS dentro do JavaScript. Com ele, é possível criar websites bonitos e funcionais. Além disso, ganhar mais agilidade e precisão no desenvolvimento web.
+
+
+style-components: Trabalha de forma isolada para cada componente, criando nomes únicos de estilização para o css, por isso nenhum estilo interfere em outro.
+
+createGlobalStyle: É uma função que exporta estilos de forma global para a aplicação. (Se é algo que vai se repetir em vários lugares ou  a estilização que é realmente da aplicação podemos usar essa opção)

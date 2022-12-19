@@ -1,0 +1,8 @@
+O useMemo é o hook nativo do react que serve para memorizar/guardar referências variáveis (const, let, var) que não precise ficar renderizando toda vez.
+
+Exemplo:
+
+    const calculo = useMemo(() => {
+      console.log('Calculou')
+      return 10 * 26589
+     }, []);

@@ -1,0 +1,14 @@
+useCallback é o hook nativo do react que é muito parecido com o useMemo, a diferença é que ele memoriza/guarda referências de uma função em sí.
+
+exemplo:
+
+    const handleChangeName = useCallback (() => {
+      console.log('alterou nome')
+      setName(prev => prev === 'Ruka' ? 'Lpeh' : 'Ruka')
+    }, [])
+
+    const handleChangeAge = useCallback (() => {
+      const newAge = 10 * age;
+      console.log('age atual', age, newAge)
+      setAge(prev => prev === 25 ? 30 : 25)
+    }, [age])

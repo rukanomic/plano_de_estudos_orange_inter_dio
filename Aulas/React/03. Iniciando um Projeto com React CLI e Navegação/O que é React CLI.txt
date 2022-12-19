@@ -1,4 +1,4 @@
-CLI (CRA): Create React App é um abiente confortável para aprender React, e é a melhor maneira de começar um single-page application em React.
+CLI (CRA): Create React App é um ambiente confortável para aprender React, e é a melhor maneira de começar um single-page application em React.
 
 Além de configurar seu ambiente de desenvolvimento para utilizar as funcionalidades mais recentes do JavaScipt, ele fornece uma experiência de desenvolvimento agradável, e otimiza muito o tempo de produção.
 

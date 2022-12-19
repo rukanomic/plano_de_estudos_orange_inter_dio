@@ -1,0 +1,9 @@
+Axios é um pacote de para trabalhar com requisições.
+
+Instalação: yarn add axios
+Site: https://axios-http.com/ptbr/docs/intro
+
+
+Json-Server é um pacote para criar um json e um servidor para simular uma API fake
+
+Instalação: npm install -g json-server

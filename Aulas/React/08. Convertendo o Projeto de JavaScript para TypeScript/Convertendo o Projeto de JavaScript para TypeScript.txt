@@ -1,0 +1,9 @@
+Antes é necessário instalar: 
+
+yarn add typescript @types/node @types/react @types/react-dom @types/jes
+
+-D: Server para rodar apenas em ambiente DEV
+
+Iniciar o TypeScript: npx tsc --init
+
+Não é possível usar JSX, a menos que o sinalizar '--jsx' seja fornecido.

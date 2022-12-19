@@ -1,0 +1,11 @@
+Tipagem estática: Deixa muito claro pra ele o que aquela várivel (string, number, boolean) está recebendo.
+
+Inferência de tipos: A partir do momento que você declara uma string para "nome" ele passa a interpretar que aquilo é uma string, ou seja, cria uma inteligência para uso da variável.
+
+Interfaces: Descrevem a estrutura do objeto, o que significa que descree como o objeto deve se parecer. Exemplo: Se for declarado um objeto e ele tiver 3 itens (nome, idade, cpf), o type entende que a "const" deverá ter esses 3 itens dentro do objeto, caso contrário, ele acusa erro.
+
+Types: É parecido com o Interfaces, mas podemos criar mais alternâncias entre o objetvo.
+
+enum = Declara um conjunto de valores/constantes pr[e-definidos. O enumerator serve para facilitar e centralizar informações de algumas regras.
+
+

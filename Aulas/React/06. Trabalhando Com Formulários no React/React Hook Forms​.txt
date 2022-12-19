@@ -1,0 +1,3 @@
+É um pacote de formulários de alto desempenho, flexíveis e extensíveis com validação fácil de usar.
+
+Site: https://react-hook-form.com/

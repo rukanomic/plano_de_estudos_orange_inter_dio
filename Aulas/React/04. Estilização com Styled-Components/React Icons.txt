@@ -1,0 +1,7 @@
+É uma biblioteca de ícones de pode ser usada quando solicitado.
+
+Github Oficial: https://github.com/react-icons/react-icons
+
+Instalação: yarn add react-icons
+
+Site: https://react-icons.github.io/react-icons

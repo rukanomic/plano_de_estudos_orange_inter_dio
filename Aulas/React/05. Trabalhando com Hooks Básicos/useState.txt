@@ -1,0 +1,23 @@
+O useState é o hook nativo do react que serve para lidar com um estado dentro de um componente.
+
+exemplo: 
+
+import { useState } from 'react';
+
+const Teste = () => {
+
+    const [name, setName] = useState('Ruka');
+
+    const handleChangeName = () => {
+        setName(prev => prev === 'Ruka' ? 'Lpeh' : 'Ruka')
+    }
+
+  return (
+    <div>
+        <p>
+            {name}  
+        </p>
+        <button onClick={handleChangeName}>Alterar</button>
+    </div>
+  )
+}
