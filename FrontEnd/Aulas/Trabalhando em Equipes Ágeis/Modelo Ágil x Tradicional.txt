@@ -1,0 +1,11 @@
+Tradicional Cascata (Waterfall): As etapas do projeto seguem de maneira subsequente e para a próxima etapa ser iniciada depende da anterior ser concluída.
+
+* Valor entregue apenas no final
+
+------------------------------------------------------
+
+Ágil: Trabalha através de ciclos (sprints), as entregas são feitas parcialmente a cada término de ciclo.
+
+* Desenvolvimento iterativo e incremental
+* Valor entregue continuamente 
+* Feedback

@@ -1,0 +1,4 @@
+É um método para definir, gerenciar e melhorrar serviços que entregam trabalho de conhecimento, como serviços profissionais, atividades criativas e o design de produtos físicos e de software.
+
+O quadro Kanban
+To Do > Doing > Done

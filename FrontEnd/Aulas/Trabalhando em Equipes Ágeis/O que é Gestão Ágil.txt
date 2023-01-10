@@ -1,0 +1,6 @@
+Uma forma de gestão de que seja:
+
+* Flexível e que se adapte às mudanças
+* Colaborativa e que gere transparência
+* Voltada ao aprendizado
+* Entrega Contínua de Valor

@@ -1,0 +1,15 @@
+A linguagem Java é composta por um conjunto bem definido de funcionalidades (features) que são super recomendadas para você entusiasta em programação conhecer o máximo que puder.
+
+Java é uma linguagem de programação simples e fácil de entender, pois não contém complexidades que existiam em linguagens de programação anteriores.
+
+Java é uma linguagem de Programação Orientada a Objetos. Isso significa que em Java tudo é escrito em termos de CLASSES e OBJETOS.
+
+Para começar a desenvolver softwares de forma consistente, é necessário compreender os pilares da Programação Orientada a Objetos (POO). Eles são:
+
+1. Classe e Objeto
+2. Encapsulamento
+3. Abistração
+4. Herança
+5. Polimorfismo
+
+Criador: James Gosling

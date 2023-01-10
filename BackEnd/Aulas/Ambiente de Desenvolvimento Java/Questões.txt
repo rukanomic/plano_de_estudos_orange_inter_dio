@@ -1,0 +1,17 @@
+1.Sabemos que uma das plataformas da linguagem Java contém uma biblioteca de componentes visuais, selecione esta plataforma.
+R: Java SE
+
+2.Você disponibilizou uma aplicação compilada para seus clientes, qual componente será necessário estar instalado na máquina do seu cliente?
+R: JRE
+
+3. Qual dos itens citados NÃO é considerada uma IDE para desenvolver aplicações na linguagem Java?
+R: PyCharm
+
+4. Qual ferramenta tem o papel de converter o bytecode em um algoritmo que é interpretado pelo sistema operacional?
+R: JVM
+
+5. Qual plataforma contém recursos para desenvolvimento com recursos como páginas Web?
+R: Java EE
+
+6. A linguagem Java conta com 4 plataformas de desenvolvimento, qual das alternativas NÃO faz parte?
+R: Java IO

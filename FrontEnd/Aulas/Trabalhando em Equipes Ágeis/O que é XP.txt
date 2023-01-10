@@ -1,0 +1,3 @@
+Extreme Programmimg é um método ágil criado no final da década de 90 para desenvolvimento de software.
+
+É uma metodologia que tem como objetivo criar sistemas com alta qualidade, com base em uma interação próxima com os clientes, testagem constante e ciclos de desenvolvimento curtos.

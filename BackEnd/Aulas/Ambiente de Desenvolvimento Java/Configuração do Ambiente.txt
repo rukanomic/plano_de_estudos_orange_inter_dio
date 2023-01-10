@@ -1,0 +1,2 @@
+JDK: É a versão para desenvolvimento
+JRE:É a versão para publicar a aplicação

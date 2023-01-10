@@ -1,0 +1,3 @@
+Processo: É algo repetitivo, que se conhece o resultado final e é replicável.
+
+Projeto: É um esforço temporário a fim de atingir um objetivo único, exclusivo e tem início e fim bem definidos

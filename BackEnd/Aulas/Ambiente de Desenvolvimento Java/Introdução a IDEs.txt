@@ -1,0 +1,10 @@
+Eclipse: Mais utilizada no ambiente corporativo com interface bem interativa.
+
+NetBeans: Utilizada mais em ambiente acaâdemico e com versão de menu e assistentes em português.
+
+IntelliJ: Ofereça muitos recursos de inteligência para agilidade de nosso desenvolvimento com sugestões de ações bem assertivas.
+
+VSCode: Hoje muito utilizada por desenvolvedores que já atuam com NodeJs ou plataformas de front-end.
+
+
+

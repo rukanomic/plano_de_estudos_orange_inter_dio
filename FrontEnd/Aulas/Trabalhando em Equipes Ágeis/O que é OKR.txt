@@ -1,0 +1,18 @@
+OKR (Objectives Key Results): Objetivos e resultados chaves.
+
+É um método de gestão ágil que foi criado pelo ex-CEO da Intel Andrew Grove e tem como objetivo simplificar a forma de encarar os chamados os principais objetivos estratégicos de uma empresa.
+
+Os objetivos do OKR são descfrições qualitativas que apontam a direção que deverá ser seguida pela empresa:
+
+* Claro
+* Inspirador
+* Desafiador
+* Alinhado com a missão do negócio
+
+Os resultados-chave, também chamados apenas de KRs, são as metas que determinam o atingimento do objetivo na metodologia OKR:
+
+* Baseadas em indicadores-chave de desempenho (KPIs)
+* Quantitativas
+* SMART: Específicas, Mensuráveis, Atingíveis, Relevantes e Temporais
+
+Benefícios: Agilidade, Cooperação, Transparência e Monitoramento Contínuo

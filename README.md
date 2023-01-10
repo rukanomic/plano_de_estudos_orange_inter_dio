@@ -10,27 +10,39 @@ Repositório criado para concluir o desafio de projeto Git/Github e mapear plano
 - Aprender HTML/CSS;
 - Aprender Typescript;
 - Aprender React;
+- Aprender Java;
+- Aprender Spring
 
 
 
 ## **Metas**
 
->  Finalizar o bootcamp: [Orange Tech +](https://web.dio.me/track/orange-tech)
+>  Finalizar o bootcamp: [Orange Tech + | FrontEnd](https://web.dio.me/track/orange-tech) (78h de Curso: Estudar 2h/Dia)
 >
 > Assistir Mentorias: [Mentorias](https://web.dio.me/track/orange-tech?tab=mentoring)
+>
 
-
-
-> 78h de Curso: Estudar 2h/Dia
+> 
 
 - [x] Jornada (Onboarding)
 - [x] Princípios de Desenvolvimento de Software
 - [x] Primeiras Páginas Interativas com JavaScript
 - [x] Dominando Algoritmos Básicos com Desafios de Código JavaScript
-- [ ] Começando na Biblioteca React
+- [x] Começando na Biblioteca React
 - [x] Dominando Algoritmos Intermediários com Desafios de Código Java Script
-- [ ] Fortalecendo sua Carreira Profissional
-- [ ] Concluir até 12/12/2022
+- [x] Fortalecendo sua Carreira Profissional
+- [x] Concluir até 12/12/2022
+
+> Finalizar o bootcamp: [Orange Tech + | BackEnd](https://web.dio.me/track/orange-tech-backend) (87h de Curso: Estudar 2h/Dia)
+
+>
+
+- [ ] Conhecendo a Linguaguem de Programação Java
+- [ ] Dominando Algoritmos Básicos com Desafios de Código Java
+- [ ] Programação Orientada a Objetos com Java
+- [ ] Ganhando Produtividade com Spring Framework
+- [ ] Dominando algoritmos Intermediários com Desafios de Código Java
+
 
 ### **Links Úteis:**
 

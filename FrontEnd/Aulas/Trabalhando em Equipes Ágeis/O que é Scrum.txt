@@ -1,0 +1,5 @@
+É um framework propositalmente incompleto, apenas definindo as partes necessárias para implementar a teoria Scrum. O guia Scrum orientam seus relacionamentos e interações.
+
+As bases do Scrum: Empirismo e Lean Thinking
+
+Pilares do Scrum: Transparência, Inspeção, Adaptação

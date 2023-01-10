@@ -1,0 +1,9 @@
+Manifesto Ágil: Indíviduos  e Interações, Software em funcionamento, Responder a mudanças, Colaboração com o cliente
+
+Individuos e interações: mais que processos e ferramentas
+
+Software em funcionamento: mais que documentação abrangente 
+
+Responder a mudanças: mais que seguir um plano
+
+Colaboração com o cliente: mais que negociação de contratos

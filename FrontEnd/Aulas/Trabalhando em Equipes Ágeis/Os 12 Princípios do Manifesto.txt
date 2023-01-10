@@ -1,0 +1,11 @@
+Ao todo são 12 princípios, mas foi anotado os 5 destacados em aula.
+
+1. Maior prioridade é satisfazer o cliente através da entrega contínua e adiantada de software com valor agregado.
+
+2. Aceitar mudanças de requisitos, mesmo no fim do desenvolvimento. Processos ágeis se adequam a mudanças, para que o cliente possa tirar vantagens competitivas.
+
+6. O método mais eficiente e eficaz de transmitir informações para e entre uma equipe de desenvolvimento é por meio de conversa face a face.
+
+10. Simplicidade: a arte de maximizar a quantidade de trabalho não realizado é essencial. 
+
+12. Em intervalos regulares, a equipe reflete sobre como se tornar mais eficaz e então refina e ajusta seu comportamento de acordo.
