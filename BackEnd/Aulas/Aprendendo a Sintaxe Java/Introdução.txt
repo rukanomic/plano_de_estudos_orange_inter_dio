@@ -1,0 +1,10 @@
+Anatomia da Classe: É a consolidação de todo o aspecto estrutural.
+
+- Estrutura inicial;
+- Padrão de nomenclatura;
+- Declarando variáveis e métodos;
+- Identação;
+- Organizando arquivos;
+- Java Beans
+
+https://glysns.gitbook.io/java-basico/

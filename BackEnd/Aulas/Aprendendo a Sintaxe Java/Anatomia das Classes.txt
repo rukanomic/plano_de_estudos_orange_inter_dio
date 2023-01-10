@@ -1,0 +1,28 @@
+Aula 1
+
+O nome do arquivo deve ser idêntico ao nome da classe pública e dentro da classe é possível ter diversas estruturas, métodos, etc.
+
+Aula 2
+
+Quando se trata de escrever códigos na linguagem Java, é recomendado seguir algumas convenções de escrita. Esses padrões estão expressos nos itens abaixo:
+
+* Arquivo .java: Todo arquivo .java deve começar com letra MAIÚSCULA. Se a palavra for composta, a segunda palavra deve também ser maiúscula, exemplo:
+Calculadora.java, CalculadoraCientifica.java 
+
+* Nome da classe no arquivo: A classe deve possuir o mesmo nome do arquivo.java
+
+* Nome de variável: toda variável deve ser escrita com letra minúscula, porém se a palavra for composta, a primeira letra da segunda palavra deverá ser MAIÚSCULA, exemplo: ano e anoFabricacao. O nome dessa prática para nomear variáveis dessa forma se chama "camelCase".
+
+Recomendações: Para declarar uma variável nós podemos utilizar caracteres, números e símbolos, porém, devemos seguir algumas regras da linguagem.
+
+-Deve conter apenas letras, _ (underline), $ ou os números de 0 a 9;
+-Deve obrigatoriamente se iniciar por uma letra (preferencialmente), _ ou $, jamais com número;
+-Deve iniciar com uma letra minúscula (boa prática – ver abaixo);
+-Não pode conter espaços;
+-Não podemos usar palavras-chave da linguagem;
+-O nome deve ser único dentro de um escopo.
+
+
+
+
+
