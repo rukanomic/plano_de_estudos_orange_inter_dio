@@ -52,5 +52,7 @@ Repositório criado para concluir o desafio de projeto Git/Github e mapear plano
 
 [Typora](https://typora.io/)
 
+[Java Básico - Gitbook](https://glysns.gitbook.io/java-basico/)
+
 
 
