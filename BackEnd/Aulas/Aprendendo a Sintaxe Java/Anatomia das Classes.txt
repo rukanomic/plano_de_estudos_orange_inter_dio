@@ -22,6 +22,31 @@ Recomendações: Para declarar uma variável nós podemos utilizar caracteres, n
 -Não podemos usar palavras-chave da linguagem;
 -O nome deve ser único dentro de um escopo.
 
+Aula 4
+
+Indentação: É um termo utilizado para escrever o código do programa de forma hierárquica, facilitando assim a visualização e o entendimento do programa
+
+Aula 5
+
+À medida que nosso sistema vai evoluindo, surgem novos arquivos (código fonte) em nossa estrutura de arquivos do projeto. Isso exige que seja realizado uma organização destes arquivos através de pacotes (packages).
+
+Aula 6 
+
+Java Beans é uma iniciativa conceitual da comunidade para ter uma estruturação de escrita mais clara, de forma que seja legível e compreendida pelo maior número de pessoas possíveis. Para isso, a linguagem Java sugere através de convenções, uma escrita universal, para nossas classes, atributos, métodos e pacotes.
+
+
+* Variáveis 
+
+- Uma variável deve ser clara, sem abreviações ou definição sem sentido;
+- Uma variável é sempre no singular, exceto quando se referir a um array ou coleção.
+- Defina um idioma único para suas variáveis. Se você for declarar variáveis em inglês, defina todas em inglês.
+
+* Métodos
+
+Os métodos deverão ser nomeados como verbos, através de uma mistura de letras minúsculas e maiúsculas. Em princípio todas as letras que compõem o nome devem ser mantidas em minúsculo, com exceção da primeira letra de cada palavra composta, a partir da segunda palavra.
+
+
+ 
 
 
 
