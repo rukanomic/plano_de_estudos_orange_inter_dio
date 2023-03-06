@@ -1,0 +1,29 @@
+Aula 1
+
+Explorar os tipos de dados numéricos inteiros, numéricos decimais, lógicos, caracteres e suas aplicabilidades. Explicar a diferença entre definicição de variáveis e constantes.
+
+
+Aula 3
+
+No Java, existem algumas palavras reservadas, para a representação dos tipos de dados básicos, que precisam ser manipulados, para a construção de programas. Estes tipos de dados são conhecidos como tipos primitivos (Primitive Types).
+
+8 Tipos de Primitivos: int, byte, short, long, float, double, boolean e char.
+Tipos naturais: byte, short, int, long, 
+Tipos que podem conter partes fracionárias: float , double
+
+
+
+
+Declaração de Variáveis:
+
+Variável, é uma identificação de um espaço em memória, utilizado pelo nosso programa. Seguindo as convenções em linguagem de programação, toda variável é composta por: tipo de dados + identificação + valor atribuído.
+
+A estrutura padrão para se declarar uma variável sempre é:
+<Tipo> <nomeVariavel> <atribuicaoDeValorOpcional
+
+OBS: Observe que o tipo long precisa terminar com L, o tipo float precisa terminar com F e alguns cenários do dia-a-dia, podem estimular uma alteração de tipos de dados convencional.
+
+
+
+
+
