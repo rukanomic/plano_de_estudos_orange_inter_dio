@@ -1,0 +1,32 @@
+Aula 01
+
+Operadores: são símbolos especiais que usamos para operações e expressões matemáticas.
+
+Aula 02
+
+Atribuição
+Representado pelo símbolo de igualdade "=".
+
+Aritméticos
+O operador aritmético, é utilizado para realizar operações matemáticas entre valores numéricos, podendo se tornar ou não uma expressão mais complexa.
+Os operadores aritméticos são: + (adição), - (subtração), * (multiplicação) e / (divisão).
+
+ATENÇÃO! O operador de adição (+), quando utilizado em variáveis do tipo texto, realizará a “concatenação de textos”.
+
+Aula 03
+
+Unários: Esses operadores, são aplicados juntamente com um outro operador aritmético. Eles realizam alguns trabalhos básicos como incrementar, decrementar, inverter valores numéricos e booleanos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

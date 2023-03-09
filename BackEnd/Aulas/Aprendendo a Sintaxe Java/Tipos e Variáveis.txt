@@ -24,6 +24,16 @@ A estrutura padrão para se declarar uma variável sempre é:
 OBS: Observe que o tipo long precisa terminar com L, o tipo float precisa terminar com F e alguns cenários do dia-a-dia, podem estimular uma alteração de tipos de dados convencional.
 
 
+Aula 4
+
+As Constantes, são valores armazenados em memória que não podem ser modificados depois de declarados. Em Java, esses valores são representados pela palavra reservada final, seguida do tipo.
+Por convenção, Constantes são sempre escritas em CAIXA ALTA.
+
+exemplo: final double VALOR_DE_PI = 3.14;
+
+Compreendemos que, para declarar uma variável como uma constante, utilizamos a palavra final, mas por convenção, esta variável deverá ser escrita toda em caixa alta.
+
+
 
 
 
