@@ -1,15 +1,18 @@
 public class Operadores {
     public static void main(String[] args) {
-        int numero = 7;
+        boolean condicao1=true;
 
-        numero = - numero;
+        boolean condicao2=true;
 
-        System.out.println(numero);
+        if(condicao1 && ( 7 > 4 )){
+            System.out.println("As duas condições são verdadeiras");
+        }
 
-        numero = numero * -1;
+        if(condicao1 || condicao2){
+            System.out.println("Uma das condições é verdadeira");
+        }
 
-        System.out.println(numero);
-
+        System.out.println("Fim");
     }
     
 }
