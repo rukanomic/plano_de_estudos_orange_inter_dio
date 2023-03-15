@@ -12,5 +12,15 @@ public class Usuario {
 
         smartTv.desligar();
         System.out.println("Novo Status: " + smartTv.ligada);
+
+        
+        smartTv.diminuirVolume();
+        smartTv.diminuirVolume();
+        smartTv.diminuirVolume();
+        smartTv.aumentarVolume();
+        
+
+        smartTv.mudarCanal(15);
+        
     }
 }

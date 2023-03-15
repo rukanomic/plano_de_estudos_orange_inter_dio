@@ -9,4 +9,19 @@ public class SmartTv {
     public void desligar(){
         ligada=false;
     }
+
+    public void aumentarVolume(){
+        volume++;
+        System.out.println("Volume aumentado para: " + volume);
+    }
+
+    public void diminuirVolume(){
+        volume--;
+        System.out.println("Volume diminuído para: " + volume);
+    }
+
+    public void mudarCanal(int novoCanal){
+        canal = novoCanal;
+        System.out.println("Canal alterado para: " + canal);
+    }
 }
