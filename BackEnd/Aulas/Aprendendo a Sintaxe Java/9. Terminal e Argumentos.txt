@@ -1,0 +1,25 @@
+Aula 01 - Terminal e Argumentos
+
+Objetivo: Explorar opções de ntrada e saída simples de dados em uma aplicação em Java.
+
+Aula 02 - Terminal e Argumentos
+
+* Terminal
+Nem sempre executamos nosso programa Java pela IDE, já pensou, nossos clientes tendo que instalar o Eclipse ou VsCode para rodar o sistema em sua empresa ?
+
+Com a JVM devidamente configurada, nós podemos criar um executável do nosso programa e disponibilizar o instalador para qualquer sistema operacional.
+
+No nosso caso, iremos aprender como executar um programa Java via terminal, como MS - DOS ou terminal do VsCode.
+
+Aula 03 - Terminal e Argumentos
+
+* Argumentos
+Quando executamos uma classe, que contenha o método main, o mesmo permite que passemos um array [] de argumentos, do tipo String. Logo, podemos após a definição da classe a ser executada, informar estes parâmetros, exemplo:
+
+java MinhaClasse agumentoUm argumentoDois
+
+
+Aula 05 - Terminal e Argumentos
+
+Scanner: A classe Scanner, permite que o usuário tenha, uma interação mais assertiva com o nosso programa
+

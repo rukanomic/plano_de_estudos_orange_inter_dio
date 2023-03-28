@@ -1,0 +1,40 @@
+Aula 01 - O que são Operadores Lógicos
+
+São símbolos especiais quais são capazes de realizar comparações lógicas entre operandos lógicos ou expressões e, em seguida, retornar um resultado
+
+* Tipos
+
+Conjunção
+Disjunção
+Disjunção exclusiva
+Negação
+
+Aula 02 - Como utilizar Operadores Lógicos
+
+Tipos:
+
+* Conjunção: operação lógica que só é veradeira quando ambos os operandos ou expressões envolvidas são verdades.
+
+
+Simbologia: &&
+Terminologia: and (e)
+
+* Disjunção: operação que só é falsa quando ambos os operando ou expressões envolvidas são falsos.
+
+Simbologia: || 
+Terminologia: or (ou)
+
+* Disjunção exclusiva: operação que só é verdade quando ambos os operandos ou expressões são opostos.
+
+Simbologia: ^
+Terminologia: xor
+
+* Negação: operação que inverte o valor lógico de um operando ou expressão 
+
+Simbologia: !
+Terminologia: inverção
+
+Aula 03 - Exemplos, Boas práticas e Exercitando
+
+
+

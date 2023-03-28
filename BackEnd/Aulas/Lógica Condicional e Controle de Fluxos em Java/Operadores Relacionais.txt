@@ -1,0 +1,22 @@
+Aula 01 - O que são Operadores Relacionais
+
+São símbolos especiais quais são capazes de realizar comparações entre determinados operandos e, em seguida, retornar um resultado.
+
+* Tipos
+
+Similaridade: igua, diferente
+Tamanho: maior, maior igual, menor, menor igual
+
+Aula 02 - Utilizando Operadores Relacionais
+
+* Similaridade
+
+Igualdade: ==
+Diferença: !=
+
+* Tamanho 
+
+Maior: >
+Maior igual: >=
+Menor: <
+Menor igua: <=
