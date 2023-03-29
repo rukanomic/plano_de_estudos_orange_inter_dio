@@ -11,9 +11,9 @@ public class Teste {
         double d1 = 59.6;
         char c1 = 'x';
         char c2 = 'y';
-        String s1 = 'Fulano';
-        String s2 = 'Fulano';
-        String s3 = 'Cicrano';
+        String s1 = "Fulano";
+        String s2 = "Fulano";
+        String s3 = "Cicrano";
         boolean b1 = true;
         boolean b2 = false;
 
@@ -43,7 +43,7 @@ public class Teste {
         //System.out.println(s1 >= s2);
         //System.out.println(s1 < s2);
 
-        System.out.println(b1 == b2)b;
+        System.out.println(b1 == b2);
         System.out.println(b1 != b2);
         //System.out.println(b1 > b2);
         //System.out.println(b1 <= b2);
