@@ -1,0 +1,14 @@
+Aula 01 -Como criar sobrecargas, usá-las e exercício prático
+
+Sobrecarga: É a capacidade de definir métodos para diferentes contextos, mas preservando seu nome.
+
+Alterar a assinatura do método:
+Ass = nome + parâmetros
+
+Exemplos:
+
+converterParaInteiro (float f);
+converterParaInteiro (double d);
+System.out.printLn ();
+System.out.printLn (int 2);
+

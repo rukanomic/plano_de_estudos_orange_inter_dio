@@ -1,0 +1,22 @@
+Aula - Por que usar?
+
+PE (Paradigma Estruturado) vs POO (Paradigma Orientado a Objeto)
+
+- PE: 
+
+* Tem uma representação mais simplista
+* Foca em operalçies(funções) e dados
+* Foca mais no "como fazer"
+
+- POO: 
+* Representação mais realista
+* Foca na modelagem de entidades e nas interações entre estas
+* Foca mais no "o que fazer"
+
+ Vantagens da POO
+
+* Melhor coesão
+* Melhor acoplamento
+* Diminuição do Gap semântico
+* Coletor de lixo
+

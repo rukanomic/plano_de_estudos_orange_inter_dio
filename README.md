@@ -37,8 +37,8 @@ Repositório criado para concluir o desafio de projeto Git/Github e mapear plano
 
 >
 
-- [ ] Conhecendo a Linguaguem de Programação Java
-- [ ] Dominando Algoritmos Básicos com Desafios de Código Java
+- [x] Conhecendo a Linguaguem de Programação Java
+- [x] Dominando Algoritmos Básicos com Desafios de Código Java
 - [ ] Programação Orientada a Objetos com Java
 - [ ] Ganhando Produtividade com Spring Framework
 - [ ] Dominando algoritmos Intermediários com Desafios de Código Java

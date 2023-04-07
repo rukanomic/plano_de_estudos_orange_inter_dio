@@ -1,0 +1,9 @@
+Aula 01 - Funcionamento, considerações, uso de retornos e apresentação do exercício
+
+Retornos: É uma instrução de interrupção
+Simbologia: return
+
+O método executa seu retorno quando:
+* Completa todas suas instruções internas;
+* Chega a uma declaração explicita de retorno;
+* Lança uma exceção
