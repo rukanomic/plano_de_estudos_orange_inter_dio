@@ -1,0 +1,7 @@
+           PLUGINS
+
+ *O QUE SÃO:
+-A maioria das funcionalidades (comandos) são providas por plugins.
+- Estilo arquitetural para extensibilidade (criar seu próprio plugin)
+- Escrito prioritariamente em Java e disponibilizados comumente como JARs
+

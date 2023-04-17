@@ -1,0 +1,7 @@
+  Aula 01 - Criando uma REST API
+
+Spring Web: https://glysns.gitbook.io/spring-framework/spring-web/introducao
+
+ Aula 04 - Habilitando o tratamento de exceções de negócio com handlers
+
+Link: https://glysns.gitbook.io/spring-framework/spring-web/exception-handlers

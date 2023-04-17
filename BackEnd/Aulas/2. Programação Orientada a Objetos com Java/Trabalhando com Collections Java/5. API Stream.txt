@@ -1,0 +1,40 @@
+ Aula 01 - Visão geral: Stream API - parte 1
+
+* Classe Anônima: É uma classe não recebeu um nome e é
+tanto declarado e instanciado em uma única instrução. Você deve considerar o uso de uma classe anônima sempre que você precisa para criar uma classe que será instanciado apenas uma vez.
+
+* Functional Interface: Qualquer interface com um SAM (Single Abstract Method) é uma interface funcional e sua implementação pode ser tratada como uma expressão lambda.
+
+ Interfaces Funcionais:
+- Comparator
+- Consumer
+- Function
+- Predicate
+
+* Lambda: Uma função lambda é uma função sem declaração, isto é, não é necessário colocar um nome, um tipo de retorno e o modificador de acesso. A ideia é que o método seja declarado no mesmo lugar em que será usado. As funções lambda em Java tem a sintaxe definida como (argumento) -> (corpo).
+
+ Aula 02 - Visão geral: Stream API - parte 2
+
+* Reference Method: É um novo recurso do Java 8 que permite fazer referência a um método ou construtor de uma classe (de forma funcional) e assim indicar que ele deve ser utilizado num ponto específico do código, deixando-o mais simples e legível. Para utilizá-lo, basta informar uma classe ou referência seguida do símbolo “::” e o nome do método sem os parênteses no final.
+
+Streams API: Traz uma nova opção para a manipulação de
+coleções em Java seguindo os princípios da programação
+funcional. Combinada com as expressões lambda, ela proporciona uma forma diferente de lidar com conjuntos de elementos, oferecendo ao desenvolvedor uma maneira simples e concisa de escrever código que resulta em facilidade de manutenção e paralelização sem efeitos indesejados em tempo de execução.
+
+ Aula 03 e 04 - Principais operações Stream API
+
+ Métodos
+
+-stream: É a forma de declarar uma stream.
+-limit: Serve limitar os elementos que deseja apresentar.
+-collect(Collectors.toSet()): Serve para coletar elementos e colocar dentro de um "Set".
+-map: Retorna uma stream consistindo no resultado da aplicação de uma função de mapeamento nos elementos da stream.
+-collect(Collectors.toList()): Serve para coletar elementos e colocar dentro de uma "List".
+-filter: É usada para filtrar elementos em uma sequência com base em uma condição específica. Ele retorna uma nova sequência contendo apenas os elementos que correspondem à condição especificada.
+-average: É usada para calcular a média de elementos em uma sequência de valores numéricos. Ela retorna um OptionalDouble, que pode conter o valor da média se houver elementos na sequência ou vazio se a sequência estiver vazia.
+- ifPresent: É usada para executar uma ação se o valor de um Optional estiver presente. Se o valor estiver presente, a ação especificada como argumento do método ifPresent será executada. Caso contrário, nada será feito.
+- mapToInt: é usada para converter uma sequência de elementos em uma sequência de valores inteiros usando uma função de mapeamento especificada. Ela retorna uma sequência de valores inteiros.
+
+
+
+

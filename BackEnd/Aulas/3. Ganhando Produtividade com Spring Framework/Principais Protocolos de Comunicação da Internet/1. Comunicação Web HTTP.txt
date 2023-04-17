@@ -1,0 +1,39 @@
+ Aula 02 - Mensagens HTTP - Request & Response
+
+Métodos Seguros: Get, Head, Option (Não fazem modificações de estado)
+
+WebDav: Permite adicionar, remover ou reperar informações
+
+
+ Aula 02 - Para que servem os Cookies e Cache?
+
+-Cookies: Pequenos pedaços ou blocos de dados criados e utilizados pelo servidor para persistir dados no dispositivo do cliente. Serve para rastrear os dados do cliente (TRACK)
+
+- Web Cache (Proxy Server): É um intermediário entre client-server. 
+
+Vantangens: Redução de tempo de resposta e tráfego.
+
+
+ Aula 03 - HTTP 2.0 - Atualizações do protocolo
+
+* HTTP 2.0: Multiplexação de canais, através de streams. 
+
+-É possível fazer o loading e objetos distintos (Priorização de recursos)
+- Punica conexão persistente
+- Compressão e reutilização do header
+- Server push (É necessário que o cliente tenha suporte)
+- HTTPS por padrão - TLS
+- Negociação no handshake
+
+Contras: Configuração incorreta do Push, Lentidão, Load Balancer disponível apenas no HTTP 1.1~
+
+
+ 
+ Aula 04 - Servidores/Sistemas de aplicação
+
+HTTP Servers: Apache, Nginx, Xampp(Pacote/ambiente utilizado para testes)
+
+
+
+
+

@@ -1,0 +1,9 @@
+           PROJETO MULTI-MÓDULOS
+
+É um projeto agregador pai(parent) que contém componentes internos de outros projetos chamados de sub-módulos.
+
+Para construir um projeto agregador é necessário incluir packaging no arquivo "pom.xml" e informar que ele é "pom.
+
+Exemplo: <packaging>pom</packaging>
+
+Depois disso basta adicionar os sub-módulos dentro do projeto agregador.

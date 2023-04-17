@@ -1,0 +1,33 @@
+ Aula 01 - Spring Framework
+
+* Spring Framework: 
+
+-Framework open source desenvolvido para a plataforma Java baseado nos padrões de projetos invesão de controle e injeção de dependência.
+
+-Sua estrutura é composta por módulos afins de reduzir a complexidade no desenvolvimento de aplicações simples ou corporativa.
+
+* Inversão de Controle
+- Inversion of Control ou IoC, trata-se do redirecionamento do fluxo de execução de um código retirando parcialmente o controle sobre ele e delegando-o para um container. O principal propósito é minimizar o acoplamento do código.
+
+* Injeção de Dependências 
+- É um padrão de desenvolvimento com a finalidade de manter baixo o nível de acoplamento entre módulos de um sistema.
+
+
+* Scope
+
+ Spring Bean Scope:
+- Singleton: O contêiner do Spring IoC define apenas uma instância do objeto para toda a aplicação.
+- Protitype: É criado uma nova instância a cada requisição de um objeto/referência a cada solicitação ao container.
+
+ HTTP: 
+-Request: Um bean será criado para cada requisição HTTP.
+-Session: Um bean será criado para a sessão de usuário.
+-Global: Cria um bean para o ciclo de vida do contexto da aplicação.
+
+* Autowired
+- Uma anotação (indicação) onde deverá ocorrer uma injeção automática de dependência.
+
+-byName: É buscado um método set que corresponde ao nome do Bean.
+-byType: É considerado o tipo da classe para inclusão do Bean.
+-byConstrutor: Usamos o construtor para incluir a dependência.
+

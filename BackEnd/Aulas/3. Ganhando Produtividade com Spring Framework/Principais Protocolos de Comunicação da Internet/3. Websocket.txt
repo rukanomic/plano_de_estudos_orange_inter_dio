@@ -1,0 +1,22 @@
+ Aula 01 - Contextualização
+
+WebSocket: Apenas uma conexão bidirecional via API. O Websocket roda encapsulado no HTTP. Temos Autenticação , Proxies e Filtagram sendo aproveitadas pelo WebSocket API.
+
+Exemplos: Aplicações em tempo real, Twitter, web jogos/apps
+
+ Aula 02 - Como funciona o WebSocket?
+
+Fases: Handshake e Data Transfer
+
+Definição: O protocolo fornece comunicação cliente/servidor executando um código não confiável em um ambiente controlado para o host que escolheu essa comunicação.
+
+* Filosofia do WebSocket
+1. Origin-base secutiry model
+2. Endereçamento e protocolo
+3. Camadas --> enquadramento on top TCP
+4. Encerramento do handshake
+
+
+ Aula 03 - Como ocorre a comunicação dentro da internet?
+
+Load Balancer: É um tipo de intermediário que faz a distribuição de carga e a multiplexação.

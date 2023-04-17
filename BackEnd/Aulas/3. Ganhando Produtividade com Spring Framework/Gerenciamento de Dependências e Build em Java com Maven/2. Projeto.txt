@@ -1,0 +1,25 @@
+ Aula 01 - Criando um projeto via linha de comando
+
+1. Abra o CMD
+2. Acesse a pasta de trabalho que deseja criar o projeto
+3. Execute o comando "mvn archetype:generate -DgroupId=one.digitalinnovation -DartifactId=quick-start-maven -Darchetype=maven-archetype-quickstart -DinteractiveMode=false" (Esse comando busca um arquétipo de um template do Maven, de um padrão de projeto Java já definido)
+
+
+ Aula 02 - Comandos que auxiliam o dia a dia
+
+- compile: serve para compilar as classes do projeto
+-test: É possível encontrar todas as classes de teste de um projeto e executa as respectivas validação de cada uma.
+-package: serve para empacotar a aplicação criando o arquivo "jar"
+-clean: limpar o diretório de trabalho, pasta "target".
+
+ 
+ Aula 03 - Criando diferentes tipos de projeto
+
+mvn archetype: É um template que possibilita personalização e configuração de como um projeto será construído.
+
+É possível pesquisar arquétipos na internet buscando: "maven archetype list"
+
+OU
+
+Buscar no site: https://mvnrepository.com/
+

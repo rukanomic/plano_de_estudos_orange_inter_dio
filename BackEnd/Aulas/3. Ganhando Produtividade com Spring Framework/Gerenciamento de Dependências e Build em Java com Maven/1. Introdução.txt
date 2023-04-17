@@ -1,0 +1,22 @@
+ Aula 01 - O que é Apache Maven
+
+ Maven:
+- É uma ferramenta para gerenciar build e dependências de um projeto.
+- Primeira versão em julho de 2004, mantido pela Apache Software Foundation.
+- Executa os testes de forma automatizada, assim como compilar todas as classes que existem dentro uma aplicação.
+- Serve para auxiliar o empacotamento da aplicação em um formato específico, compilar todas as fontes e executar os testes.
+- Endereça como o software foi construído e suas dependências através do POM (Project Object Model)
+- Facilita a compreensão do desenvolvedor
+- Fornece informações de qualidade
+ 
+
+ Aula 02 - Instalação 
+
+Site: https://maven.apache.org/download.cgi
+
+1. Copiar caminho pasta Bin do instalador: C:\DevTools\apache-maven-3.9.1\bin
+2. Ir até variáveis do sistema do Windows.
+3. Selecione a variável "Patch"
+4. Adicione o patch com o caminho bin do Apache
+ 
+

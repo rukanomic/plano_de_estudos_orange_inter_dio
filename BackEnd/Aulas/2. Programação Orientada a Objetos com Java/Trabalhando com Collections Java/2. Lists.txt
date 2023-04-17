@@ -1,0 +1,44 @@
+ Aula 01 - Coleções com iterações ordenadas: Listas
+
+Interface List (Chamada): java.util.List
+
+Caracteristias: Permite elementos duplicados e garantem ordem de inserção.
+
+Implementação ArrayList: Só implementar a interface List.
+Implementação LinkedList: Imlementa tanto a interface List quanto a Queue.
+
+ArrayList deve ser usado onde mais operações de pesquisa são necessárias, e LinkedList deve ser usado onde mais operações de inserção e exclusão são necessárias.
+
+
+ Aula 02 e 03 - Conhecendo os métodos List
+
+ Métodos:
+
+-add: Serve para adicionar novos elementos
+-toString: Serve para exibir os elementos de uma lista.
+-indexOf: Serve para exibir a posição de um elemento dentro de uma lista.
+-set: Serve para substituir um elemento de uma lista.
+-contains(boolean): Serve para informar se existe ou não um determinado elemento dentro da lista.
+-get: Serve para passar uma posição e retornar o elemento dessa posição.
+-Collections.min: Serve para informar o menor elemento dentro de uma ista.
+-Collections.max: Serve para informar o maior elemento dentro de uma ista.
+-iterator(boolean): Serve para iterar os elementos dentro de uma lista.
+-hasNext: Serve para identificar se existe  ou não um próximo elemento para ser considerado.
+-next: Serve para considerar o próximo elemento.
+-size: Serve para saber a quantidade de elementos dentro de uma lista.
+-remove: Serve para remover o elemento de uma lista.
+-clear: Serve para apagar todos os elementos de uma lista.
+-isEmpty(boolean): Serve para identificar se existe ou não elementos dentro de uma lista.
+
+
+ Aula 04 e 05 - Ordenação de elementos em uma coleção List
+
+ Métodos:
+
+-Collections.shuffle: Serve para exibir os itens de uma lista em ordem aleatória.
+-Comparable: Serve realizar a comparação de elementos.
+-sort: Serve para ordenar os itens da lista em ordem natural.
+
+
+
+

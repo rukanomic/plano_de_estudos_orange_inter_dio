@@ -1,0 +1,81 @@
+ Aula 01 - Conhecendo o Springboot
+
+ * Springboot: 
+-Enquanto que o Spring Framework é baseado no padrão de injeção de dependências, o Springbooy foca na configuração automática.
+
+ * Starters: 
+-São descritores de dependência, ou seja, ele encapsula todas as dependências.
+- Benefícios: Coesão, versões compatíveis, otimização do tempo, configuração simples e foco no negócio.
+
+
+ Aula 02 - Primeiros passos
+
+Para iniciar um projeto é necessário utilizar o Spring Initializr, acessando: https://start.spring.io/
+
+
+ Aula 03 - Beans versus Components
+
+ * QUANDO UTILIZAR COMPONENTS?
+- Usados quando forem escaneados na aplicação, ou seja, quando se tem acesso ao código fonte. 
+- Quando é uma classe que tem a possibilidade ou a finalidade de ser provida através do conceito de injeção de dependência
+
+ * QUANDO UTILIZAR BEANS?
+- Quando não se tem acesso ao código fonte.
+
+
+ Aula 05 - Properties Value
+
+ * application.properties 
+-Pode manter estados/informações da aplicações em propriedades de algum contexto que garantimos que não vai ter iteração ou mudanças de seus valores no decorrer da execução dos usuários.
+- Notação: @Value (Serve para atribuir valor padrão a uma propriedade de classe)
+
+
+ Aula 06 - Configuration Properties
+
+ *Configuration Properties
+- Todos os valores ou estruturas dependem do application.properties
+- Para ter Beans de configuração de propriedades de forma centralizado em um contexto.
+- Exemplos: Autenticação de Credenciamento,  Envio de E-mails, Necessidade FTP.
+- Notações: @Configuration, @ConfigurationProperties(prefix)
+
+
+
+ Aula 07 - Conceito de ORM e JPA
+
+ * ORM (Object-Relational Mapping)
+
+- Mapeamento objeto-relacional, é um recurso para aproximar o paradigma da orientação a objetos ao contexto de banco de ados relacional.
+
+- O uso de ORM é realizado através do mapeamento de objeto para uma tabela por uma biblioteca ou framework.
+
+ * JPA
+-É uma especificação baseada em interfaces, que através de um framework realiza operações de persistência de objetos em Java.
+
+ * Mapeamento
+Vamos conhecer os aspectos das anotações de mapeamento do JPA:
+- Identificação
+- Definição
+- Relacionamento
+- Herança
+- Persistência
+
+
+
+ Aula 08 - Spring Data JPA
+
+Website: https://glysns.gitbook.io/spring-framework/spring-data-jpa/intro
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

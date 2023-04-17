@@ -1,0 +1,32 @@
+ Aula 01 - Coleções com singularidade: Set
+
+Interface List (Chamada): java.util.Set
+
+Caracteristias: Não permite elementos duplicados, não possui índice, não possui método "get", "set" e "indexOf", ou seja, não é possui fazer pesquisas.
+
+HashSet: realiza inserções em ordem aleatória.
+LinkedHaset: realizar por ordem de inserção.
+TreeSet: realiza inserções por ordem natural(númerica, alfabética, etc.)
+
+ Aula 02 - Conhecendo os métodos Set
+
+ Métodos:
+
+-contains(boolean): Serve para informar se existe ou não um determinado elemento dentro da lista.
+-Collections.min: Serve para informar o menor elemento dentro de uma ista.
+-Collections.max: Serve para informar o maior elemento dentro de uma ista.
+-iterator(boolean): Serve para iterar os elementos dentro de uma lista.
+-hasNext: Serve para identificar se existe  ou não um próximo elemento para ser considerado.
+-next: Serve para considerar o próximo elemento.
+-size: Serve para saber a quantidade de elementos dentro de uma lista.
+-remove: Serve para remover o elemento de uma lista.
+-clear: Serve para apagar todos os elementos de uma lista.
+-isEmpty(boolean): Serve para identificar se existe ou não elementos dentro de uma lista.
+
+ Aula 03 - Ordenação de elementos em uma coleção Set
+
+
+
+
+
+

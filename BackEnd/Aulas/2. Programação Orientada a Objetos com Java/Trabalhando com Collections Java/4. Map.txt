@@ -1,0 +1,44 @@
+ Aula 01 - Coleções de pares: Map
+
+Interface List (Chamada): java.util.Map
+
+Caracteristias: Elementos únicos (key) para cada valor (value)
+
+* HashMap: realiza inserções em ordem aleatória.
+* LinkedHashMap: realizar por ordem de inserção.
+* TreeMap: Ordenação do Map, serve para quando utilizarmos comparações. Realiza inserções por ordem natural(númerica, alfabética, etc.), Não permite chaves nulas.
+
+Big O notation: Está relacionado a performance das implementações.
+
+ Aula 02 e 03 - Conhecendo os métodos Map
+
+ Métodos
+
+-put: Serve para adicionar chaves, valor. Também serve para sobrescrever valor de uma chave.
+-constainsKey: Serve para informar se existe ou não um determinada chave dentro do map.
+-get: Serve para passar retornar o valor de uma chave.
+keySet: Serve para retornar um "Set" com as chaves.
+-values: Serve para retornar uma "Collection" com os valores das chaves.
+-getKey: É um método do tipo Entry que serve para retornar a chave.
+-getValue: É um método do tipo Entry que serve para retornar o valor.
+-entrySet: Serve para retornar um "Set" e os elementos dentro dele, e os elementos são do tipo Entry.
+-Collections.min: Serve para informar o menor elemento.
+-Collections.max: Serve para informar o maior elemento.
+-iterator(boolean): Serve para iterar os elementos dentro do map
+-hasNext: Serve para identificar se existe  ou não um próximo elemento para ser considerado.
+-next: Serve para considerar o próximo elemento.
+-size: Serve para saber a quantidade de elementos dentro de uma lista.
+-remove: Serve para remover o elemento de uma lista.
+-clear: Serve para apagar todos os elementos de uma lista.
+-isEmpty(boolean): Serve para identificar se existe ou não elementos dentro de uma lista.
+
+
+
+
+
+
+
+
+
+
+

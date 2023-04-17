@@ -1,0 +1,67 @@
+ Aula 01 - Tipos de dependência
+
+Tipos: Direta e Transitiva
+
+* Diretas: dependências declaradas no pom.xml
+* Transitiva: dependências obrigatórias das dependências declaradas no pom.xml
+
+comando mvn install: serve para publicar localmente o componentes/projeto, ou seja, ele se torna um dependência passível de uso.
+
+
+ Aula 02 - Transitividade e Escopos
+
+Para lidar com problemas de dependências transitivas, o Maven provê escopos para limitar a transitividade das dependÊncias. Existem 6 tipos de escopos que podemos utilizar.
+
+ *Classpath: É a referência que a aplicação tem para um momento de execução, e o Maven divide isso em;
+- Runtime: Tempo de execução:
+-Test: Para execução do teste.
+-Compile: Para compilar a aplicação.
+
+ 1. Escopo compile
+- Escopo default
+- Disponível em todos os classpaths
+- É transitivo
+
+ 2. Escopo provided
+- Indica que a dependência será fornenida em tempo de execução por uma implementação na JDK ou via container
+- Exemplos: Servlet API, Java EE APIs
+- A dependência com esse escopo é adicionado no classpath usado para compilação(compile) e teste(test) mas não em runtime;
+- Não é transitiva
+
+ 3. Escopo runtime
+- Indica que a dependência é necessária para execução e não para compilação
+- Maven inclui no classpath dos escopos de runtime e test.
+
+ 4. Escopo test
+- Disponível somento para compilação e execução de teste.
+- Não é transitivo
+
+ 5. Escopo system
+- Similar ao escopo provided exceto por ser necessário prover o JAR explicitamente
+- A dependência com esse escopo é adicionado no classpath usado para compilação e teste, mas não em runtime;
+- Não é transitiva
+
+ 6. Escopo import
+- Este escopo é disponível apenas com uma dependência do tipo pom e com tag <dependecyManagement>
+- Indica um processo de reutilizar dependências de um projeto.
+
+
+ Aula 03 - Dica sobre escopos, dependências opcionais e exclusions
+
+
+ * Ver o classpath: Como o Maven está construindo cada escopo que existe na aplicação.
+
+Comandos:
+mvn dependency:build-classpath –DincludeScope=compile
+mvn dependency:build-classpath –DincludeScope=test
+mvn dependency:build-classpath –DincludeScope=runtime
+
+ * Dependencias Opcionais
+- Utilizado quando uma dependência não é necessário para os projetos que irão reutilizar seu componente
+
+ * Exclusions
+- Utilizado quando o componente que você usa compartilha uma biblioteca que você já tem ou não quer ter disponível.
+
+ 
+
+

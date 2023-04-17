@@ -1,0 +1,40 @@
+ Aula 01 - Servidores/Sistemas de aplicação
+
+ Criptografia por chave
+
+- Assimpetrica
+Chave privada: assinatura - criptografia
+Chave pública: verificação de autenticidade (usuário)
+
+-Simétrica
+Chave única privada: Conhecimento prévio da chave, ou seja, modificação da frase de forma rotativa (Cifra de César).
+Tipos: Cifra de fluxo e Cifra de bloco.
+
+
+Entidade Certificadora: Faz a verificação de identidade e Emissão de certificados.
+
+
+
+ Aula 02 - Protocolo SSL - Secure Socket Layer
+
+SSL: É um protocolo de segurança de conexão que funciona por cima do TCP.
+
+Vantagens: Confidencialidade, Integridade e Autencidade end-point
+
+Versão 3 do SSL: TLS (Transport Layer Security) 
+
+
+ Aula 03 - Operação do SSL e considerações finais
+
+Fases da Operação: Handshake - key Derivation - Data Transfer
+
+* HTTPS + SSL: Segurança na comunicação - HTTP Over TCP, Verificação da autenticidade por certificados digitais Porta 443.
+
+* LGPD (Lei Geral de Proteção de Dados)
+- Promulgada em 2018
+- Entrou em vigor em Agosto de 2020
+     Lei da Segurança da Informação
+Nº 13.709/2018
+
+
+
